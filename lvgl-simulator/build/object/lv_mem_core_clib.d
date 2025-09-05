@@ -1,0 +1,26 @@
+build/object/lv_mem_core_clib.o: \
+ c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\stdlib\clib\lv_mem_core_clib.c \
+ c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\stdlib\lv_mem.h \
+ c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\lv_conf_internal.h \
+ c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\lv_conf_kconfig.h \
+ C:/NXP/GUI-Guider-Projects/zebradark800480/lvgl-simulator/lv_conf.h \
+ c:\nxp\gui-guider-projects\zebradark800480\custom\lv_conf_ext.h \
+ c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\stdlib\lv_string.h \
+ c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\misc\lv_types.h \
+ c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\lv_conf_internal.h
+
+c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\stdlib\lv_mem.h:
+
+c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\lv_conf_internal.h:
+
+c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\lv_conf_kconfig.h:
+
+C:/NXP/GUI-Guider-Projects/zebradark800480/lvgl-simulator/lv_conf.h:
+
+c:\nxp\gui-guider-projects\zebradark800480\custom\lv_conf_ext.h:
+
+c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\stdlib\lv_string.h:
+
+c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\misc\lv_types.h:
+
+c:\nxp\gui-guider-projects\zebradark800480\lvgl\src\lv_conf_internal.h:
